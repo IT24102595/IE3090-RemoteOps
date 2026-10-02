@@ -1,0 +1,16 @@
+[2026-10-02 11:36:29] === Agent STARTED (port=9410, SID=5952) ===
+[2026-10-02 11:36:44] CONNECTION: New client connected (fd=4)
+[2026-10-02 11:36:44] CMD: AUTH OPS-2595 (fd=4)
+[2026-10-02 11:36:44] AUTH: Successful for client (fd=4)
+[2026-10-02 11:36:44] CMD: SYSINFO (fd=4)
+[2026-10-02 11:36:44] CMD: LISTPROC (fd=4)
+[2026-10-02 11:36:44] CMD: EXEC DATE (fd=4)
+[2026-10-02 11:36:44] CMD: EXEC WHOAMI (fd=4)
+[2026-10-02 11:36:44] CMD: EXEC RM_RF (fd=4)
+[2026-10-02 11:36:44] CMD: PUT test_upload.txt 38 (fd=4)
+[2026-10-02 11:36:44] PUT: test_upload.txt (38 bytes) from fd=4
+[2026-10-02 11:36:44] CMD: GET test_upload.txt (fd=4)
+[2026-10-02 11:36:44] GET: test_upload.txt (38 bytes) to fd=4
+[2026-10-02 11:36:45] CMD: MONITOR START 9999 (fd=4)
+[2026-10-02 11:36:56] CMD: MONITOR STOP (fd=4)
+[2026-10-02 11:36:56] CMD: QUIT (fd=4)

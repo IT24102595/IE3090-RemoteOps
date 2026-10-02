@@ -1,0 +1,11 @@
+# Compiled binaries
+agent_595
+controller_595
+
+# Test files
+test_upload.txt
+test_downloaded.txt
+
+# Editor files
+*.swp
+*~
