@@ -40,3 +40,17 @@ Thread-per-client using POSIX threads (pthreads). Each new connection spawns a d
 ## Author
 IT24102595 - SLIIT
 
+## Commit History
+This repository contains 8+ meaningful commits documenting the development process:
+1. Initial commit
+2. Complete implementation (AUTH, SYSINFO, LISTPROC, EXEC, PUT/GET, threads, UDP, logging)
+3. Detailed README
+4. Design diary
+5. AI prompt log
+6. Structured reflection
+7. Makefile capitalization fix
+8. Updated .gitignore
+9. README commit history
+
+## License
+Academic submission - IE3090 Network Programming, SLIIT
